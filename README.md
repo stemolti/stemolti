@@ -10,7 +10,7 @@
 <div align="center">
  
  
- 🌱 I’m currently learning **Javascript, Typescript, C#, Shell, Neovim, NodeJS, ReactJS, ExpressJS**
+ 🌱 I’m currently learning **Javascript, Typescript, C#, Shell, Neovim, NodeJS, ReactJS, ExpressJS, NextJS**
 
 ⚡ Fun fact **Inspired by Marvel Superheroes**
 
