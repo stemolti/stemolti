@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+🚀;+I'm+Stefano+Agbodan!;" />
 </h1>
 
-<h3 align="center">On the road to become a Full Stack Developer from Italy 🇮🇹</h3>
+<h3 align="center">On the road to become a Unicorn Developer🦄 from Italy 🇮🇹</h3>
 
 <br/>
 <div align="center">
@@ -30,7 +30,7 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Languages . Frameworks . Tools ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,vscode,figma,git,github" />
