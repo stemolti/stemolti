@@ -4,13 +4,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+🚀;+I'm+Stefano+Agbodan!;" />
 </h1>
 
-<h3 align="center">On the road to become a Unicorn Developer🦄 from Italy 🇮🇹</h3>
+<h3 align="center">I am a Junior Developer on the road to become a Unicorn Developer🦄 from Italy 🇮🇹</h3>
 
 <br/>
 <div align="center">
  
  
- 🌱 I’m currently learning **Javascript, Typescript, C#, PowerShell, Neovim, NodeJS, GSAP3, ThreeJS, WebGPU, ReactJS, ExpressJS, NextJS**
+ 🌱 I’m currently learning **Javascript, Typescript, C#, PowerShell, NodeJS, GSAP3, ThreeJS, WebGPU,, WebGL ReactJS, ExpressJS, NextJS**
 
 ⚡ Fun fact **Inspired by Marvel Superheroes**
 
@@ -33,7 +33,7 @@
 <h2 align="center">⚒️ Languages . Frameworks . Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=ai,xd,figma,html,css,bootstrap,vscode,neovim,powershell,git,github,redis,redux" />
+    <img src="https://skillicons.dev/icons?i=ai,xd,figma,html,css,bootstrap,vscode,git,github,redis,redux" />
     <img src="https://skillicons.dev/icons?i=javascript,typescript,jquery,threejs,react,nodejs,cs,nextjs,mysql,mongodb,express,docker,dotnet" /><br>
 </div>
 
