@@ -10,7 +10,7 @@
 <div align="center">
  
  
- 🌱 I’m currently learning **Javascript, Typescript, C#, PowerShell, NodeJS, GSAP3, ThreeJS, WebGPU, WebGL, ReactJS, ExpressJS, NextJS**
+ 🌱 I’m currently learning **Javascript, Typescript, Angular, NodeJS, GSAP3, ThreeJS, WebGPU, WebGL, ReactJS, ExpressJS, NextJS**
 
 ⚡ Fun fact **Inspired by Marvel Superheroes**
 
@@ -33,8 +33,8 @@
 <h2 align="center">⚒️ Languages . Frameworks . Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=ai,xd,figma,html,css,bootstrap,vscode,git,github,redis,redux" />
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,jquery,threejs,react,nodejs,cs,nextjs,mysql,mongodb,express,docker,dotnet" /><br>
+    <img src="https://skillicons.dev/icons?i=ai,figma,html,css,bootstrap,vscode,git,github,redis,redux" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,jquery,threejs,react,nodejs,cs,nextjs,mysql,mongodb,express,docker" /><br>
 </div>
 
 <br/>
