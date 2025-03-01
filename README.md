@@ -1,7 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=stemolti.stemolti" />
 
 <h3 align="center">I am a Creative Developer from Italy 🇮🇹</h3>
-
 <br/>
 <div align="center">
  
