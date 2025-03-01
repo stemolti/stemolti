@@ -5,7 +5,8 @@
 <div align="center">
  
  
- 🌱 I’m currently learning **Javascript, Typescript, Angular, React Native, NodeJS, GSAP3, ThreeJS, WebGPU, WebGL, ReactJS, ExpressJS, NextJS**
+ 🌱 I’m currently learning **Javascript, Typescript, Angular, React Native, NodeJS, GSAP3,<br/>
+ ThreeJS, WebGPU, WebGL, ReactJS, ExpressJS, NextJS**
 
 ⚡ Fun fact **Inspired by Marvel Superheroes**
 
