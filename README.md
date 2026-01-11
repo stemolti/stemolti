@@ -1,18 +1,14 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=stemolti.stemolti" />
 
 <h3 align="center">Developer based in Warsaw 🇵🇱</h3>
-
 <br/>
-
 <div align="center">
   🌱 Currently focused on <b>Data Structures & Algorithms</b><br/>
   using <b>Python, JavaScript & TypeScript</b><br/><br/>
   ⚡ Problem-solving, algorithmic thinking & performance optimization<br/>
   🧠 Inspired by Marvel Superheroes
 </div>
-
 <br/>
-
 <div align="center">
   <a href="mailto:stemolti@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -27,10 +23,10 @@
 
 <div align="center">
   <!-- Core Languages -->
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript" /><br/>
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript" />
 
   <!-- DSA / Dev Tools -->
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,docker" /><br/>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,docker" />
 
   <!-- Frameworks (secondary) -->
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs" />
