@@ -9,14 +9,6 @@
   🧠 Inspired by Marvel Superheroes
 </div>
 <br/>
-<div align="center">
-  <a href="mailto:stemolti@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/stefano-t%C3%A9t%C3%A9-agbodan-879511184/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
 <br/>
 <h2 align="center">⚒️ Languages · Algorithms · Tools ⚒️</h2>
 <br/>
