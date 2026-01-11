@@ -32,16 +32,3 @@
     src="https://raw.githubusercontent.com/stemolti/stemolti/output/github-contribution-grid-snake.svg" 
   />
 </div>
-
-<br/>
-<h2 align="center">⚡ GitHub Stats ⚡</h2>
-<br/>
-
-<div align="center">
-  <img width="414" src="https://streak-stats.demolab.com?user=stemolti&theme=highcontrast&border_radius=10" alt="GitHub Streak" />
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=stemolti&count_private=true&show_icons=true&theme=highcontrast&rank_icon=github&border_radius=10" alt="GitHub Stats" />
-  <br/><br/>
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stemolti&langs_count=6&layout=compact&theme=highcontrast&border_radius=10" alt="Top Languages" />
-</div>
-
-<br/><br/>
