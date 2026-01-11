@@ -21,30 +21,23 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
-
-<hr/>
-
+<br/>
 <h2 align="center">⚒️ Languages · Algorithms · Tools ⚒️</h2>
-
 <br/>
 
 <div align="center">
   <!-- Core Languages -->
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript" /><br/>
 
   <!-- DSA / Dev Tools -->
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,docker" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,docker" /><br/>
 
   <!-- Frameworks (secondary) -->
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs" />
 </div>
 
 <br/>
-
-<hr/>
-
 <h2 align="center">🐍 My Contributions 🐍</h2>
-
 <br/>
 
 <div align="center">
@@ -55,11 +48,7 @@
 </div>
 
 <br/>
-
-<hr/>
-
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
-
 <br/>
 
 <div align="center">
