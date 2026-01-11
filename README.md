@@ -34,8 +34,6 @@
 
 <br/>
 <h2 align="center">🐍 My Contributions 🐍</h2>
-<br/>
-
 <div align="center">
   <img 
     alt="snake eating my contributions" 
