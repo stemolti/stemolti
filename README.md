@@ -18,7 +18,7 @@
   </a>
 </div>
 <br/>
-<h2 align="center" style="border-bottom:none">⚒️ Languages · Algorithms · Tools ⚒️</h2>
+<h2 align="center" style="border-bottom:none !important">⚒️ Languages · Algorithms · Tools ⚒️</h2>
 <br/>
 
 <div align="center">
@@ -33,7 +33,7 @@
 </div>
 
 <br/>
-<h2 align="center" style="border-bottom:none">🐍 My Contributions 🐍</h2>
+<h2 align="center" style="border-bottom:none !important">🐍 My Contributions 🐍</h2>
 <br/>
 
 <div align="center">
