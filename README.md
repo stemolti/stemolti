@@ -1,28 +1,65 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=stemolti.stemolti" />
+<h3 align="center">Software Engineer (Early Career) · Warsaw 🇵🇱</h3>
 
-<h3 align="center">Developer based in Warsaw 🇵🇱</h3>
+
 <br/>
+
 <div align="center">
-  🌱 Currently focused on <b>Data Structures & Algorithms</b><br/>
-  using <b>Python, JavaScript & TypeScript</b><br/><br/>
-  ⚡ Problem-solving, algorithmic thinking & performance optimization<br/>
-  🧠 Inspired by Marvel Superheroes
+  🔍 Focused on <b>Data Structures & Algorithms</b> and core CS fundamentals<br/>
+  🐍 Primary language: <b>Python</b> (for problem solving and interviews)<br/>
+  🧠 Strong interest in system design fundamentals and software architecture<br/><br/>
+  ⚡ Problem decomposition · Algorithmic thinking · Complexity analysis
 </div>
+
+<br/><br/>
+
+<h2 align="center">🧠 Core Focus</h2>
+
+<div align="center">
+  Designing, implementing, and analyzing algorithmic solutions with attention to
+  correctness, time and space complexity (Big-O), and code clarity.<br/>
+  Building strong foundations to reason about systems, trade-offs, and scalability.
+</div>
+
 <br/>
-<br/>
-<h2 align="center">⚒️ Languages · Algorithms · Tools ⚒️</h2>
+
+<h2 align="center">⚒️ Languages · CS · Tools</h2>
+
 <br/>
 
 <div align="center">
-  <!-- Core Languages -->
+  <!-- Core Language -->
   <img src="https://skillicons.dev/icons?i=python,javascript,typescript" />
-
-  <!-- DSA / Dev Tools -->
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,docker" />
-
-  <!-- Frameworks (secondary) -->
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs" />
 </div>
+
+<br/>
+
+<div align="center">
+  <!-- Computer Science / Engineering Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</div>
+
+<br/>
+
+<h2 align="center">📂 Selected Projects</h2>
+
+<div align="center">
+  <b>Algorithms & Data Structures Practice</b><br/>
+  Public repository focused on classical DSA problems (arrays, trees, graphs, recursion),
+  with clear explanations and complexity analysis.<br/>
+  <a href="https://github.com/stemolti/moltiful-algorithms">View repository</a>
+</div>
+
+<br/>
+
+<div align="center">
+  <b>Internal AI System Design (Architecture Foundations)</b><br/>
+  Private, documentation-driven project exploring system design fundamentals,
+  software architecture, and principled AI integration under human control.
+</div>
+
+<br/>
+
 
 <br/>
 <h2 align="center">🐍 My Contributions 🐍</h2>
