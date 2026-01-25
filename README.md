@@ -55,7 +55,7 @@
 <div align="center">
   <b>Internal AI System Design (Architecture Foundations)</b><br/>
   Private, documentation-driven project exploring system design fundamentals,
-  software architecture, <br/>and principled AI integration under human control.
+  <br/>software architecture, and principled AI integration under human control.
 </div>
 
 <br/>
