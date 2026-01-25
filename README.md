@@ -13,17 +13,17 @@
 
 <br/><br/>
 
-<h2 align="center">🧠 Core Focus</h2>
+<h2 align="center" style="border-bottom: none">🧠 Core Focus</h2>
 
 <div align="center">
   Designing, implementing, and analyzing algorithmic solutions with attention to
-  correctness, time and space complexity (Big-O), and code clarity.<br/>
+  correctness, <br/>time and space complexity (Big-O), and code clarity.<br/>
   Building strong foundations to reason about systems, trade-offs, and scalability.
 </div>
 
 <br/>
 
-<h2 align="center">⚒️ Languages · CS · Tools</h2>
+<h2 align="center" style="border-bottom: none">⚒️ Languages · CS · Tools</h2>
 
 <br/>
 
@@ -41,12 +41,12 @@
 
 <br/>
 
-<h2 align="center">📂 Selected Projects</h2>
+<h2 align="center" style="border-bottom: none">📂 Selected Projects</h2>
 
 <div align="center">
   <b>Algorithms & Data Structures Practice</b><br/>
   Public repository focused on classical DSA problems (arrays, trees, graphs, recursion),
-  with clear explanations and complexity analysis.<br/>
+  <br/>with clear explanations and complexity analysis.<br/>
   <a href="https://github.com/stemolti/moltiful-algorithms">View repository</a>
 </div>
 
@@ -55,7 +55,7 @@
 <div align="center">
   <b>Internal AI System Design (Architecture Foundations)</b><br/>
   Private, documentation-driven project exploring system design fundamentals,
-  software architecture, and principled AI integration under human control.
+  software architecture, <br/>and principled AI integration under human control.
 </div>
 
 <br/>
