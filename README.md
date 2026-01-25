@@ -55,7 +55,7 @@
 <div align="center">
   <b>Internal AI System Design (Architecture Foundations)</b><br/>
   Documentation-driven project exploring system design fundamentals,
-  <br/>software architecture, and principled AI integration under human control.
+  <br/>software architecture, and principled AI integration under human control.<br/>
   <a href="https://github.com/stemolti/internal-ai-system-orchestration-design-docs">View repository (docs only)</a>
 </div>
 
