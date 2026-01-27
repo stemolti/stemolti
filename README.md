@@ -6,7 +6,7 @@
 
 <div align="center">
   🔍 Focused on <b>Data Structures & Algorithms</b> and core CS fundamentals<br/>
-  🐍 Primary language: <b>Python</b> (for problem solving and interviews)<br/>
+  🐍 Primary language: <b>Python</b><br/>
   🧠 Strong interest in system design fundamentals and software architecture<br/><br/>
   ⚡ Problem decomposition · Algorithmic thinking · Complexity analysis
 </div>
