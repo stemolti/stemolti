@@ -60,7 +60,7 @@
   Public repository focused on classical DSA problems, approached with
   <br/>clear problem statements, multiple solution strategies, and
   <br/>explicit time/space complexity analysis.<br/><br/>
-  Emphasis on reasoning, invariants, and solution trade-offs rather than memorization.<br/>
+  Emphasis on reasoning, invariants, and solution trade-offs<br/> rather than memorization.<br/>
   <a href="https://github.com/stemolti/moltiful-algorithms">→ View repository</a>
 </div>
 
@@ -71,7 +71,7 @@
   Documentation-driven exploration of software architecture and system design,
   <br/>focused on explicit boundaries, decision traceability,
   <br/>and principled AI integration under human control.<br/><br/>
-  The project prioritizes predictability, safety, and long-term maintainability
+  The project prioritizes predictability, safety, and long-term<br/> maintainability
   over automation.<br/>
   <a href="https://github.com/stemolti/internal-ai-system-orchestration-design-docs">
     → View documentation
