@@ -1,5 +1,5 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=stemolti.stemolti" />
-<h3 align="center">Early-Career Software Engineer · Europe (Warsaw 🇵🇱)</h3>
+<h3 align="center">Early-Career Software Engineer · Europe (Milan IT)</h3>
 
 
 <br/>
