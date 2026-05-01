@@ -67,20 +67,6 @@
 <br/><br/>
 
 <div align="center">
-  <b>Internal AI System Design — Architecture Foundations</b><br/>
-  Documentation-driven exploration of software architecture and system design,
-  <br/>focused on explicit boundaries, decision traceability,
-  <br/>and principled AI integration under human control.<br/><br/>
-  The project prioritizes predictability, safety, and long-term<br/> maintainability
-  over automation.<br/>
-  <a href="https://github.com/stemolti/internal-ai-system-orchestration-design-docs">
-    → View documentation
-  </a>
-</div>
-
-<br/><br/>
-
-<div align="center">
   <i>
     I value clarity over cleverness, explicit reasoning over assumptions,
     <br/>and engineering decisions that scale beyond the initial implementation.
