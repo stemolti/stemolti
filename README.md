@@ -1,13 +1,12 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=stemolti.stemolti" />
-<h3 align="center">Software Developer · Milan IT</h3>
-
+<h3 align="center">Software Developer · AI Workflows & Integration · Padua / Milan IT</h3>
 
 <br/>
 
 <div align="center">
-  Focused on <b>computer science foundations</b> and <b>engineering reasoning</b><br/>
-  Primary language: <b>Python</b> · Also working with <b>TypeScript / JavaScript</b><br/>
-  Interested in <b>system design fundamentals</b>, software architecture, and scalable systems
+  Specializing in <b>AI-augmented development</b> and <b>workflow optimization</b><br/>
+  Core stack: <b>TypeScript, Node.js, Python, PostgreSQL</b><br/>
+  Interested in <b>LLM Orchestration</b>, Model Context Protocol (MCP), and System Design
 </div>
 
 <br/><br/>
@@ -15,11 +14,10 @@
 <h2 align="center" style="border-bottom: none">🧠 Engineering Focus</h2>
 
 <div align="center">
-  I design and analyze algorithmic and software solutions with emphasis on
-  <br/><b>problem framing</b>, <b>correctness</b>, and <b>explicit trade-off analysis</b>.
+  I build full-stack applications and automate complex processes using cutting-edge CLI tools like <b>Claude Code</b>.
   <br/><br/>
-  My goal is to build strong foundations to reason clearly about
-  <br/>time and space complexity, system constraints, failure cases, and scalability.
+  My current focus involves deploying <b>self-managing sub-agents via Markdown</b>, integrating LLM APIs,<br/>
+  and managing the entire Software Development Life Cycle (SDLC) using structured tools like <b>Linear and Notion</b>.
 </div>
 
 <br/>
@@ -29,24 +27,20 @@
 <br/>
 
 <div align="center">
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,nodejs,nestjs,react,nextjs,postgres" />
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- Engineering Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,notion" />
 </div>
 
 <br/>
 
 <div align="center">
-  <b>Computer Science:</b> Data Structures, Algorithms, Big-O Analysis, Recursion,
-  Trees, Graphs, Dynamic Programming (foundations)<br/>
-  <b>Software Engineering:</b> System Design Foundations, Debugging, Testing,
-  Clean Code, Problem Decomposition, Trade-off Analysis
+  <b>AI & Orchestration:</b> Claude Code, Prompt Engineering, LLM API Integration, RAG Frameworks, MCP Servers<br/>
+  <b>Software Engineering:</b> RESTful APIs, Trunk-Based Development, Agile/Scrum, Documentation-Driven Development
 </div>
 
 <br/>
@@ -56,11 +50,25 @@
 <br/>
 
 <div align="center">
+  <b>LLM-Powered IELTS Preparation App</b><br/>
+  Full-stack dashboard combining a React/Next.js frontend with an LLM-powered backend.<br/>
+  Features interactive exercises and exam-aligned progression using MCP Servers and PostgreSQL.
+</div>
+
+<br/>
+
+<div align="center">
+  <b>Automated Content Creation Pipeline</b><br/>
+  Automating generative workflows for a digital persona (Leah Vino), bypassing no-code platforms.<br/>
+  Integrates Flora AI, public APIs, and MCP for autonomous scripting and external data orchestration.
+</div>
+
+<br/>
+
+<div align="center">
   <b>Algorithms & Data Structures Practice</b><br/>
-  Public repository focused on classical DSA problems, approached with
-  <br/>clear problem statements, multiple solution strategies, and
-  <br/>explicit time/space complexity analysis.<br/><br/>
-  Emphasis on reasoning, invariants, and solution trade-offs<br/> rather than memorization.<br/>
+  Public repository focused on classical DSA problems, approached with<br/>
+  clear problem statements, multiple solution strategies, and explicit Big-O trade-off analysis.<br/>
   <a href="https://github.com/stemolti/moltiful-algorithms">→ View repository</a>
 </div>
 
@@ -68,8 +76,8 @@
 
 <div align="center">
   <i>
-    I value clarity over cleverness, explicit reasoning over assumptions,
-    <br/>and engineering decisions that scale beyond the initial implementation.
+    I value structured repository architectures, explicit engineering reasoning,
+    <br/>and building scalable solutions assisted by AI.
   </i>
 </div>
 
